@@ -28,6 +28,11 @@ body{
                 border-radius: 5px;
                 box-sizing: border-box;
             }
+            a[type="remember"]{
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                font-size: 14px;
+                color: blue;
+            }
             input[type="submit"]{
                 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
                 width: 100%;
