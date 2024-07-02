@@ -11,4 +11,4 @@ Link: https://login-simple-page.netlify.app/
 <img src="/readme/responsividade-desktop.png" width="480px">
 
 ### Responsividade Mobile:
-<img src="/readme/responsividade-desktop.jpg" width="480px">
+<img src="/readme/responsividade-mobile.jpg" width="480px">
