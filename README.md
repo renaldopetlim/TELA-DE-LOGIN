@@ -1,8 +1,8 @@
-#PROJETO Tela de Login Simples (DESKTOP/MOBILE)
+# PROJETO Tela de Login Simples (DESKTOP/MOBILE)
 Projeto desenvolvido para fins de prática de código.
 
-Tecnologias Usadas:
-• HTML
+Tecnologias Usadas: <br>
+• HTML <br>
 • CSS
 
 Link: https://login-simple-page.netlify.app/
